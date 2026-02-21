@@ -50,8 +50,12 @@ Sou **estudante de Engenharia de Software** na PUC Minas e atuo como **estagiár
 
 <div align="center">
 
-<img src="./profile/stats.svg" alt="GitHub Stats" height="165"/>
-<img src="./profile/top-langs.svg" alt="Top Languages" height="165"/>
+<table>
+  <tr>
+    <td><img src="./profile/stats.svg" alt="GitHub Stats" height="165"/></td>
+    <td><img src="./profile/top-langs.svg" alt="Top Languages" height="165"/></td>
+  </tr>
+</table>
 
 </div>
 
