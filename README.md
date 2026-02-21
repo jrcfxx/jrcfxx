@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header&text=Júlia%20Fiorini&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=500&height=80&lines=Full+Stack+Developer;Clean+Code+Enthusiast;Building+at+LexisNexis;Coffee+%3D+Infinity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&weight=600&size=22&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=500&height=80&lines=Full+Stack+Developer;Clean+Code+Enthusiast;Software+Engineer+%40+LexisNexis;Coffee+%3D+Infinity)](https://git.io/typing-svg)
 
 ### Engenheira de Software | Desenvolvedora Full Stack
 
@@ -50,20 +50,14 @@ Sou **estudante de Engenharia de Software** na PUC Minas e atuo como **estagiár
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jrcfxx&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrcfxx&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1" height="165"/>
+<img src="./profile/stats.svg" alt="GitHub Stats" height="165"/>
+<img src="./profile/top-langs.svg" alt="Top Languages" height="165"/>
 
 </div>
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=jrcfxx&theme=radical&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak" width="50%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jrcfxx&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" width="100%"/>
 
 </div>
 
@@ -102,9 +96,9 @@ Sou **estudante de Engenharia de Software** na PUC Minas e atuo como **estagiár
 ## 🐍 Contribuições
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jrcfxx/jrcfxx/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jrcfxx/jrcfxx/output/github-contribution-grid-snake.svg">
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/jrcfxx/jrcfxx/output/github-contribution-grid-snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/snake.svg">
+  <img alt="Snake eating my contributions" src="./profile/snake.svg" width="100%"/>
 </picture>
 
 ---
