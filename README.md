@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header&text=Júlia%20Fiorini&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&weight=600&size=22&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=500&height=80&lines=Full+Stack+Developer;Clean+Code+Enthusiast;Software+Engineer+%40+LexisNexis;Coffee+%3D+Infinity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&weight=600&size=20&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=500&height=110&lines=Full+Stack+Developer;Clean+Code+Enthusiast;Software+Engineer+%40+LexisNexis;Coffee+%3D+Infinity)](https://git.io/typing-svg)
 
 ### Engenheira de Software | Desenvolvedora Full Stack
 
