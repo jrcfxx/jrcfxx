@@ -13,7 +13,7 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="32"> 
-*"I don't accept superficial explanations — I seek the logic behind every technical decision."*
+*"I don't accept superficial explanations - I seek the logic behind every technical decision."*
 
 </div>
 
@@ -37,7 +37,7 @@ Sou **estudante de Engenharia de Software** na PUC Minas e atuo como **estagiár
 </td>
 <td width="50%" valign="top">
 
-• Perfil analítico — busco a lógica por trás de cada decisão técnica  
+• Perfil analítico - busco a lógica por trás de cada decisão técnica  
 • Valorizo processos, comunicação e organização  
 
 </td>
@@ -190,7 +190,7 @@ Sou **estudante de Engenharia de Software** na PUC Minas e atuo como **estagiár
 </tr>
 </table>
 
-<p align="center"><i>💡 Assistir é bom — codar é melhor!</i></p>
+<p align="center"><i>💡 Assistir é bom - codar é melhor!</i></p>
 
 ---
 
@@ -270,8 +270,8 @@ Automação de workflows manuais com Python na Conexa Saúde.
 
 <div align="center">
 
-🇧🇷 **Português** — Nativo  
-🇺🇸 **Inglês** — Avançado (ICBEU)
+🇧🇷 **Português** - Nativo  
+🇺🇸 **Inglês** - Avançado (ICBEU)
 
 </div>
 
