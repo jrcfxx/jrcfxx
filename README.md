@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2D6A4F&height=110&section=header&text=Júlia%20Fiorini&fontSize=44&fontColor=fff&fontAlignY=32" width="100%"/>
+<img src="https://media.giphy.com/media/10olZ3QsdfXeSY/giphy.gif" width="100%" alt="Waterfall"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-6ad7a5f5ae28.gif" width="320" alt="Coding"/>
 
@@ -51,19 +51,19 @@ Desenvolvedora full stack apaixonada por **código limpo** e **soluções bem pe
 
 Acredito que entender o **porquê** das tecnologias é tão importante quanto saber usá-las. Por isso, estudo constantemente fundamentos, arquitetura, segurança e boas práticas.
 
-> *"I don't accept superficial explanations — I seek the logic behind every technical decision."*
+> *"I don't accept superficial explanations - I seek the logic behind every technical decision."*
 
 ### 🔎 Meus objetivos
 
-Transformar conhecimento acadêmico em soluções reais e eficientes. Valorizo colaboração e processos bem estruturados — busco oportunidades onde eu possa contribuir com código de qualidade, aprender com times experientes e crescer profissionalmente.
+Transformar conhecimento acadêmico em soluções reais e eficientes. Valorizo colaboração e processos bem estruturados - busco oportunidades onde eu possa contribuir com código de qualidade, aprender com times experientes e crescer profissionalmente.
 
 ### 🪴 Fora do código
 
 | | Interesse | Descrição |
 |---|-----------|-----------|
-| 📚 | **Leitura** | Livros técnicos — Clean Code, Pragmatic Programmer e Designing Data-Intensive Applications no topo |
+| 📚 | **Leitura** | Livros técnicos - Clean Code, Pragmatic Programmer e Designing Data-Intensive Applications no topo |
 | 🌿 | **Natureza** | Trilhas, ar livre e um pé na terra quando o código não resolve |
-| ☕ | **Café** | Xícara na mão, problema na cabeça — o combo clássico |
+| ☕ | **Café** | Xícara na mão, problema na cabeça - o combo clássico |
 | 🧠 | **Aprender** | Curiosidade intelectual que não desliga; sempre explorando novos tópicos |
 | 📋 | **Organização** | Processos, planejamento e sistemas bem estruturados |
 
@@ -79,37 +79,30 @@ Transformar conhecimento acadêmico em soluções reais e eficientes. Valorizo c
 
 ### 🌐 Idiomas
 
-🇧🇷 **Português** — Nativo &nbsp;|&nbsp; 🇺🇸 **Inglês** — Avançado (ICBEU)
+🇧🇷 **Português** - Nativo &nbsp;|&nbsp; 🇺🇸 **Inglês** - Avançado (ICBEU)
 
 ---
 
 ## 🍃 Experiência Tech
 
-### 🟢 LexisNexis Risk Solutions
-*Estágio em Desenvolvimento Web • Jun 2024 – presente*
+Na visão geral abaixo, você encontra minha experiência de trabalho mais recente:
 
-Desenvolvimento e manutenção de aplicações web **internas e orientadas ao cliente**, trabalhando com:
+**Web Development Intern** \
+[**LexisNexis Risk Solutions**](https://www.lexisnexis.com/) • Jun 2024 - Presente \
+Linguagens & Tecnologias: `Vue.js`, `Vuetify`, `PHP`, `Git`, `CI/CD` \
+Projetos em destaque: aplicações internas e orientadas ao cliente, melhorias contínuas, correções de segurança e deploy.
+<br/>
 
-- **Stack:** Vue.js, Vuetify, PHP
-- **Ciclo completo:** implementação de features, correções de segurança, deploy e CI/CD
-- **Práticas:** versionamento (Git), pipelines de integração contínua, colaboração com engenheiros e QA
-- **Responsabilidades:** monitoramento, ajustes operacionais e garantia de estabilidade das entregas
+**Finance Assistant (Processos & Automação)** \
+[**Conexa Saúde**](https://www.conexasaude.com.br/) • Out 2022 - Jun 2024 \
+Linguagens & Tecnologias: `Python`, `Automação Web`, `Análise de Dados`, `XML` \
+Projetos em destaque: automação de faturamento B2B/B2C, redução de tempo operacional e otimização de rotinas do time.
+<br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-8dc2-4cbd-a569-0219bcd197a8.gif" width="280" alt="Code"/>
-
-### 🟢 Conexa Saúde
-*Assistente Financeira → Planejamento e Processos • Out 2022 – Jun 2024*
-
-Automação de processos e desenvolvimento de sistemas:
-
-- **Automação com Python:** redução de tempo operacional no faturamento (B2B, B2C, XML)
-- **Sistemas web:** desenvolvimento de automações para otimizar tarefas manuais
-- **Premiações:** Destaque do Semestre (CSC) e Destaque do Trimestre (Financeiro)
-
-### 🟢 Jovem Aprendiz — Conexa Saúde
-*RH e Financeiro • Fev 2022 – Out 2022*
-
-Base em processos, organização e análise de dados em ambientes corporativos.
+**Financial/Administrative Apprentice** \
+[**Conexa Saúde**](https://www.conexasaude.com.br/) • Fev 2022 - Out 2022 \
+Linguagens & Tecnologias: `Processos`, `Organização`, `Operações Financeiras` \
+Projetos em destaque: suporte em RH e Financeiro, base sólida em processos e controle operacional.
 
 ---
 
