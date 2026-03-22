@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2D6A4F&height=100&section=header&text=Júlia%20Fiorini&fontSize=42&fontColor=fff&fontAlignY=32" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2D6A4F&height=110&section=header&text=Júlia%20Fiorini&fontSize=44&fontColor=fff&fontAlignY=32" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=800&color=2D6A4F&center=true&vCenter=true&multiline=true&repeat=true&width=480&height=90&lines=Software+Engineer;Full+Stack+Developer;Building+at+LexisNexis;Nature+%2B+Tech)](https://git.io/typing-svg)
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-6ad7a5f5ae28.gif" width="320" alt="Coding"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=800&color=2D6A4F&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=95&lines=Software+Engineer;Full+Stack+Developer;Building+at+LexisNexis;Nature+%2B+Tech)](https://git.io/typing-svg)
+
+### Engenheira de Software | Desenvolvedora Full Stack
 
 <p>
   <a href="https://www.linkedin.com/in/julia-rocha-fiorini/"><img src="https://img.shields.io/badge/LinkedIn-2D6A4F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -14,80 +18,172 @@
 
 ---
 
-## Sobre mim
+## 🌳 Contatos
 
-Desenvolvedora full stack apaixonada por **código limpo** e **soluções bem pensadas**. Estudo Engenharia de Software na PUC Minas e atuo na [LexisNexis Risk Solutions](https://www.lexisnexis.com/), construindo aplicações com Vue.js, PHP e Laravel.
-
-Acredito que entender o **porquê** das tecnologias é tão importante quanto saber usá-las. Por isso, estudo constantemente fundamentos, arquitetura e boas práticas — com foco em código que escala e sistemas que duram.
-
-> *"I don't accept superficial explanations — I seek the logic behind every technical decision."*
-
----
-
-## Fora do código
-
-| Interesse | Descrição |
-|-----------|-----------|
-| **Leitura** | Livros técnicos e de desenvolvimento pessoal — Clean Code e Pragmatic Programmer no topo da lista |
-| **Natureza** | Trilhas, ar livre e um pé na terra quando o código não resolve |
-| **Café** | Xícara na mão, problema na cabeça — o combo clássico |
-| **Aprender** | Curiosidade intelectual que não desliga; sempre explorando novos tópicos |
-| **Organização** | Processos, planejamento e um Notion (ou similar) bem estruturado |
-
+| | |
+|:---|:---|
+| **Email** | juliarochafiorini@gmail.com |
+| **LinkedIn** | [Júlia Rocha Fiorini](https://www.linkedin.com/in/julia-rocha-fiorini/) |
+| **Localização** | Belo Horizonte, Minas Gerais |
 
 ---
 
-## Stack técnica
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-</p>
-
----
-
-## Experiência
-
-**LexisNexis Risk Solutions** — *Estágio em Desenvolvimento Web* (2024 – presente)  
-Full stack com Vue.js e PHP. Ciclo completo de software: features, segurança, deploy e CI/CD.
-
-**Conexa Saúde** — *Assistente Financeira → Planejamento e Processos*  
-Automação com Python e desenvolvimento de sistemas web. Destaque do Semestre e do Trimestre.
-
----
-
-## Projetos
-
-| Projeto | Descrição |
-|--------|-----------|
-| [CasaDosDiscipulos](https://github.com/jrcfxx/CasaDosDiscipulos) | Sistema de gestão com módulos gamificados e quizzes |
-| [Sistema Hackathon](https://github.com/jrcfxx/Sistema-Gerenciamento-Hackathon-Universitario) | Gerenciamento de projetos e equipes em hackathons |
-| **Automação de Faturamento** | Automação de workflows com Python |
-
----
-
-## GitHub
+## 📊 GitHub em números
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/jrcfxx/jrcfxx/main/profile/stats.svg" alt="Stats" height="150"/>
-<img src="https://raw.githubusercontent.com/jrcfxx/jrcfxx/main/profile/top-langs.svg" alt="Languages" height="150"/>
+| <img src="https://raw.githubusercontent.com/jrcfxx/jrcfxx/main/profile/stats.svg" alt="Stats" height="165"/> | <img src="https://raw.githubusercontent.com/jrcfxx/jrcfxx/main/profile/top-langs.svg" alt="Languages" height="165"/> |
+|:---:|:---:|
 
-<img src="https://streak-stats.demolab.com/?user=jrcfxx&theme=everforest-dark&hide_border=true&background=0D1117" alt="Streak" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=jrcfxx&theme=everforest-dark&hide_border=true&background=0D1117" alt="Streak" width="65%"/>
 
 </div>
 
 ---
 
+## 🍀 Sobre mim
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60" alt="Dev"/>
+</p>
+
+Desenvolvedora full stack apaixonada por **código limpo** e **soluções bem pensadas**. Estudo Engenharia de Software na PUC Minas e atuo na [LexisNexis Risk Solutions](https://www.lexisnexis.com/), construindo aplicações web com Vue.js, PHP e Laravel.
+
+Acredito que entender o **porquê** das tecnologias é tão importante quanto saber usá-las. Por isso, estudo constantemente fundamentos, arquitetura, segurança e boas práticas.
+
+> *"I don't accept superficial explanations — I seek the logic behind every technical decision."*
+
+### 🔎 Meus objetivos
+
+Transformar conhecimento acadêmico em soluções reais e eficientes. Valorizo colaboração e processos bem estruturados — busco oportunidades onde eu possa contribuir com código de qualidade, aprender com times experientes e crescer profissionalmente.
+
+### 🪴 Fora do código
+
+| | Interesse | Descrição |
+|---|-----------|-----------|
+| 📚 | **Leitura** | Livros técnicos — Clean Code, Pragmatic Programmer e Designing Data-Intensive Applications no topo |
+| 🌿 | **Natureza** | Trilhas, ar livre e um pé na terra quando o código não resolve |
+| ☕ | **Café** | Xícara na mão, problema na cabeça — o combo clássico |
+| 🧠 | **Aprender** | Curiosidade intelectual que não desliga; sempre explorando novos tópicos |
+| 📋 | **Organização** | Processos, planejamento e sistemas bem estruturados |
+
+---
+
+## 🎓 Formação Acadêmica
+
+| Curso | Instituição | Período |
+|-------|-------------|---------|
+| **Engenharia de Software** | PUC Minas | 2024 – 2028 (em curso) |
+| **Técnico em Desenvolvimento de Sistemas** | SENAI CTTI | 2021 – 2023 |
+| **Java do Básico ao Avançado** | Udemy | 2024 – 2025 |
+
+### 🌐 Idiomas
+
+🇧🇷 **Português** — Nativo &nbsp;|&nbsp; 🇺🇸 **Inglês** — Avançado (ICBEU)
+
+---
+
+## 🍃 Experiência Tech
+
+### 🟢 LexisNexis Risk Solutions
+*Estágio em Desenvolvimento Web • Jun 2024 – presente*
+
+Desenvolvimento e manutenção de aplicações web **internas e orientadas ao cliente**, trabalhando com:
+
+- **Stack:** Vue.js, Vuetify, PHP
+- **Ciclo completo:** implementação de features, correções de segurança, deploy e CI/CD
+- **Práticas:** versionamento (Git), pipelines de integração contínua, colaboração com engenheiros e QA
+- **Responsabilidades:** monitoramento, ajustes operacionais e garantia de estabilidade das entregas
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-8dc2-4cbd-a569-0219bcd197a8.gif" width="280" alt="Code"/>
+
+### 🟢 Conexa Saúde
+*Assistente Financeira → Planejamento e Processos • Out 2022 – Jun 2024*
+
+Automação de processos e desenvolvimento de sistemas:
+
+- **Automação com Python:** redução de tempo operacional no faturamento (B2B, B2C, XML)
+- **Sistemas web:** desenvolvimento de automações para otimizar tarefas manuais
+- **Premiações:** Destaque do Semestre (CSC) e Destaque do Trimestre (Financeiro)
+
+### 🟢 Jovem Aprendiz — Conexa Saúde
+*RH e Financeiro • Fev 2022 – Out 2022*
+
+Base em processos, organização e análise de dados em ambientes corporativos.
+
+---
+
+## 🚀 Projetos em destaque
+
+### 🟢 CasaDosDiscipulos
+
+Sistema de gestão desenvolvido para a igreja Casa dos Discípulos (projeto universitário):
+
+- Módulos de estudo gamificados para membros
+- Administração e gestão para líderes
+- Quizzes customizáveis, vídeos e documentos
+- Substituição de planilhas e processos manuais
+
+### 🟢 Sistema Hackathon Universitário
+
+Sistema para gerenciar hackathons promovidos por universidades:
+
+- Gerenciamento de **projetos** e **equipes**
+- Organização de eventos e participações
+
+### 🟢 Automação de Faturamento
+
+Automação de workflows manuais no setor financeiro da Conexa Saúde com **Python**, reduzindo tempo operacional e aumentando eficiência da equipe.
+
+---
+
+## 🪴 Ferramentas e Tecnologias
+
+### Linguagens
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C"/>
+</p>
+
+### Frameworks & Bibliotecas
+
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue"/>
+  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white" alt="Vuetify"/>
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" alt="Nuxt"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+</p>
+
+### Banco de Dados & Ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+### Soft Skills
+
+🔸 Resolução de problemas &nbsp; 🔸 Raciocínio lógico &nbsp; 🔸 Trabalho em equipe &nbsp; 🔸 Senso de urgência &nbsp; 🔸 Comunicação &nbsp; 🔸 Organização
+
+---
+
 <div align="center">
 
-**🌿 Aberta a novas oportunidades** | [LinkedIn](https://www.linkedin.com/in/julia-rocha-fiorini/) · [Email](mailto:juliarochafiorini@gmail.com)
+<img src="https://user-images.githubusercontent.com/74038190/235294011-5f2c4c12-0b1e-4b8d-b50e-1c06a5a21f6b.gif" width="320" alt="Coding"/>
+
+**🌿 Aberta a novas oportunidades**
+
+<p>
+  <a href="https://www.linkedin.com/in/julia-rocha-fiorini/"><img src="https://img.shields.io/badge/Conectar_LinkedIn-2D6A4F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:juliarochafiorini@gmail.com"><img src="https://img.shields.io/badge/Enviar_Email-2D6A4F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=jrcfxx&style=flat-square&color=2D6A4F" alt="Views"/>
 
