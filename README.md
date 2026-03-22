@@ -14,7 +14,7 @@
 
     </td>
     <td width="42%" align="right" valign="middle">
-      <img src="https://media.giphy.com/media/10olZ3QsdfXeSY/giphy.gif" width="360" alt="Waterfall"/>
+      <img src="https://i.giphy.com/media/10olZ3QsdfXeSY/giphy.gif" width="360" alt="Waterfall"/>
     </td>
   </tr>
 </table>
@@ -90,19 +90,27 @@ Transformar conhecimento acadêmico em soluções reais e eficientes. Valorizo c
 
 Na visão geral abaixo, você encontra minha experiência de trabalho mais recente:
 
-<img src="https://www.google.com/s2/favicons?domain=lexisnexis.com&sz=64" width="18" alt="LexisNexis"/> **Web Development Intern** \
+[<img align="left" height="94px" width="94px" alt="LexisNexis" src="https://www.google.com/s2/favicons?domain=lexisnexis.com&sz=256"/>](https://www.lexisnexis.com/)
+
+**Web Development Intern** \
 [**LexisNexis Risk Solutions**](https://www.lexisnexis.com/) • Jun 2024 - Presente \
 Linguagens & Tecnologias: `Vue.js`, `Vuetify`, `PHP`, `Git`, `CI/CD` \
 Projetos em destaque: aplicações internas e orientadas ao cliente, melhorias contínuas, correções de segurança e deploy.
 <br/>
+<br/>
 
-<img src="https://www.google.com/s2/favicons?domain=conexasaude.com.br&sz=64" width="18" alt="Conexa Saúde"/> **Finance Assistant (Processos & Automação)** \
+[<img align="left" height="94px" width="94px" alt="Conexa Saúde" src="https://www.google.com/s2/favicons?domain=conexasaude.com.br&sz=256"/>](https://www.conexasaude.com.br/)
+
+**Finance Assistant (Processos & Automação)** \
 [**Conexa Saúde**](https://www.conexasaude.com.br/) • Out 2022 - Jun 2024 \
 Linguagens & Tecnologias: `Python`, `Automação Web`, `Análise de Dados`, `XML` \
 Projetos em destaque: automação de faturamento B2B/B2C, redução de tempo operacional e otimização de rotinas do time.
 <br/>
+<br/>
 
-<img src="https://www.google.com/s2/favicons?domain=conexasaude.com.br&sz=64" width="18" alt="Conexa Saúde"/> **Financial/Administrative Apprentice** \
+[<img align="left" height="94px" width="94px" alt="Conexa Saúde" src="https://www.google.com/s2/favicons?domain=conexasaude.com.br&sz=256"/>](https://www.conexasaude.com.br/)
+
+**Financial/Administrative Apprentice** \
 [**Conexa Saúde**](https://www.conexasaude.com.br/) • Fev 2022 - Out 2022 \
 Linguagens & Tecnologias: `Processos`, `Organização`, `Operações Financeiras` \
 Projetos em destaque: suporte em RH e Financeiro, base sólida em processos e controle operacional.
