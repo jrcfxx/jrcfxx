@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/10olZ3QsdfXeSY/giphy.gif" width="100%" alt="Waterfall"/>
+<img src="https://media.giphy.com/media/10olZ3QsdfXeSY/giphy.gif" width="520" alt="Waterfall"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-6ad7a5f5ae28.gif" width="320" alt="Coding"/>
 
@@ -87,22 +87,24 @@ Transformar conhecimento acadêmico em soluções reais e eficientes. Valorizo c
 
 Na visão geral abaixo, você encontra minha experiência de trabalho mais recente:
 
-**Web Development Intern** \
+<img src="https://logo.clearbit.com/lexisnexis.com" width="18" alt="LexisNexis"/> **Web Development Intern** \
 [**LexisNexis Risk Solutions**](https://www.lexisnexis.com/) • Jun 2024 - Presente \
 Linguagens & Tecnologias: `Vue.js`, `Vuetify`, `PHP`, `Git`, `CI/CD` \
 Projetos em destaque: aplicações internas e orientadas ao cliente, melhorias contínuas, correções de segurança e deploy.
 <br/>
 
-**Finance Assistant (Processos & Automação)** \
+<img src="https://logo.clearbit.com/conexasaude.com.br" width="18" alt="Conexa Saúde"/> **Finance Assistant (Processos & Automação)** \
 [**Conexa Saúde**](https://www.conexasaude.com.br/) • Out 2022 - Jun 2024 \
 Linguagens & Tecnologias: `Python`, `Automação Web`, `Análise de Dados`, `XML` \
 Projetos em destaque: automação de faturamento B2B/B2C, redução de tempo operacional e otimização de rotinas do time.
 <br/>
 
-**Financial/Administrative Apprentice** \
+<img src="https://logo.clearbit.com/conexasaude.com.br" width="18" alt="Conexa Saúde"/> **Financial/Administrative Apprentice** \
 [**Conexa Saúde**](https://www.conexasaude.com.br/) • Fev 2022 - Out 2022 \
 Linguagens & Tecnologias: `Processos`, `Organização`, `Operações Financeiras` \
 Projetos em destaque: suporte em RH e Financeiro, base sólida em processos e controle operacional.
+
+<br/>
 
 ---
 
