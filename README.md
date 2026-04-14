@@ -217,7 +217,17 @@ Sou **estudante de Engenharia de Software** na PUC Minas e atuo como **software 
 <td width="50%">
 
 **LexisNexis Risk Solutions**  
-*Estágio em Desenvolvimento Web • 2024 – presente*
+*Software Engineer em Desenvolvimento Web • 04/2026 – presente*
+
+• Full stack com Vue.js e PHP  
+• Ciclo completo: features, segurança, deploy, CI/CD  
+• Colaboração com engenheiros e QA  
+
+</td>
+<td width="50%">
+
+**LexisNexis Risk Solutions**  
+*Estágio em Desenvolvimento Web • 2024 – 04/2026*
 
 • Full stack com Vue.js e PHP  
 • Ciclo completo: features, segurança, deploy, CI/CD  
