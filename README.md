@@ -25,7 +25,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80" alt="Coding"/>
 </p>
 
-Sou **estudante de Engenharia de Software** na PUC Minas e atuo como **estagiária em desenvolvimento web** na [LexisNexis Risk Solutions](https://www.lexisnexis.com/). Construo aplicações estáveis e bem estruturadas com foco em qualidade.
+Sou **estudante de Engenharia de Software** na PUC Minas e atuo como **software engineer em desenvolvimento web** na [LexisNexis Risk Solutions](https://www.lexisnexis.com/). Construo aplicações estáveis e bem estruturadas com foco em qualidade.
 
 <table>
 <tr>
